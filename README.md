@@ -1,4 +1,10 @@
-### Hi there 👋
+# Heya! 👋
+## My name is Davi and I'm a computer science student.
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+
 
 <!--
 **daviifm/daviifm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
