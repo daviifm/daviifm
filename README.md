@@ -1,7 +1,7 @@
 # Heya! 👋
 ## My name is Davi and I'm a computer science student.
 
-## Working with:
+## Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,c)](https://skillicons.dev)
 
