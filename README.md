@@ -2,7 +2,7 @@
 
 ### My name is Davi and I'm a computer science graduate student.
 
-## Currently working on my personal website, It will be here soon!
+### Currently working on my personal website, It will be here soon!
 ![b26dc591c3aacf3cd904630ac3aef5dc_w200](https://github.com/daviifm/daviifm/assets/123704324/2e90079e-1e46-4242-b068-d480d788397f)
 
 <!--
