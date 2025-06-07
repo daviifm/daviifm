@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-### My name is Davi, I'm a computer science undergrad student, and I like to spend an unbelieavable amount of time solving some really hard problems.
+### My name is Davi, I'm a computer science undergrad student, and I like to spend an unnecessary amount of time solving some really hard problems.
 
 ### Currently working on my personal website, It will be here soon!
 ![b26dc591c3aacf3cd904630ac3aef5dc_w200](https://github.com/daviifm/daviifm/assets/123704324/2e90079e-1e46-4242-b068-d480d788397f)
